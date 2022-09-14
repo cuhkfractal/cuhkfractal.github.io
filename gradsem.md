@@ -12,6 +12,11 @@ This is an experimental page for the record of *graduate seminars* organized by 
 - To be announced.
 # Previous
 ## 2022
+- 7/15 Friday \venue{LSB 219}\\
+  **Yuhao Xie**
+  - Peres, Yuval; Simon, Károly & Solomyak, Boris. \href{Self-similar sets of zero Hausdorff measure and positive packing measure}{https://doi.org/10.1007/BF02773577}. *Israel J. Math. , Vol. 117 p. 353-379. 2000.*
+  - \collapsible{Outline}{\inputoutln{2022/o220715.md}}
+
 - 4/22 — 4/29 Fridays \venue{Zoom}\\
   **Yuji Li**
   - Shepp, L. A.. \href{Covering the circle with random arcs}{https://doi.org/10.1007/BF02789327}. *Israel J. Math. , Vol. 11 p. 328-345. 1972.*

@@ -7,14 +7,22 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 \href{Seminar Topics 2022}{/assets/topics/StdsemTopics2022.pdf}\\
 
-**Joint notes in progress:**
-- \href{Basics on Moran structures}{/assets/wip/Moran.pdf}
 # Upcoming
 ## 2022
 - To be announced.
 
 # Previous
 ## 2022
+- 9/13 Tuesday \venue{LSB 202}\\
+  **Yuhao Xie**
+  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
+  - \collapsible{Outline}{\inputoutln{2022/o220913.md}}
+
+- 7/26 Tuesday \venue{Zoom}\\
+  **Caiyun Ma**
+  - Falconer, K. J.. \href{Generalized dimensions of measures on self-affine sets}{https://doi.org/10.1088/0951-7715/12/4/308}. *Nonlinearity , Vol. 12, No. 4 p. 877-891. 1999.*
+  - \href{Note}{https://drive.google.com/file/d/1hpJ-gZH1M1s6c9bAli2Vbxi5VzzirRfr/view}.
+
 - 5/10 Tuesday \venue{Zoom}\\
   **Yuhao Xie**
   - Lagarias, Jeffrey C. & Wang, Yang. \href{Self-affine tiles in R^n}{https://doi.org/10.1006/aima.1996.0045}. *Adv. Math. , Vol. 121, No. 1 p. 21-49. 1996.*
@@ -26,6 +34,7 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
   - Kenyon, Richard. \href{Projecting the one-dimensional Sierpinski gasket}{https://doi.org/10.1007/BF02774038}. *Israel J. Math. , Vol. 97 p. 221-238. 1997.*
   - \href{Note}{https://drive.google.com/open?id=1IZ6HhhciZHMrzTJ1jvfnkRoKCVvToFEF}; \href{Dimension for IFS with exact-overlaps}{/assets/misc/Dim_1d_Rational_IFS.html}.
   - \collapsible{Summary}{\inputsmmry{2022/s220503.md}}
+  - A joint note in progress: \href{Basics on Moran structures}{/assets/wip/Moran.pdf}
   
 - 4/26 Tuesday \venue{Zoom}\\
   **Yuji Li**
