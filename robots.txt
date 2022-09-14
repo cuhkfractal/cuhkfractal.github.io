@@ -1,4 +1,4 @@
-Sitemap: https://zfengg.github.io/sitemap.xml
+Sitemap: https://cuhkfractal.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
