@@ -1,0 +1,4 @@
+Sitemap: https://zfengg.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
