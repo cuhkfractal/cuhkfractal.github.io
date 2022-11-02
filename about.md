@@ -31,3 +31,6 @@ We can be reached via contacts listed \href{here}{https://www.math.cuhk.edu.hk/p
 - Yufeng Wu
 - Changhao Chen
 - Jiaming Wu
+
+## Links
+- \href{A notebook for plotting IFS attractors}{/assets/misc/PlotIFS.jl.html}.
