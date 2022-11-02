@@ -13,6 +13,25 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Previous
 ## 2022
+- 11/1 Tuesday \venue{LSB 202}\\
+  **Zhou Feng**
+  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
+  - \collapsible{Summary}{\inputsmmry{2022/s221101.md}}
+  - \href{Note}{https://drive.google.com/open?id=1tZ8e5M1QcTR_rZ3tq2AN7NMYSBPpA2DO}.
+
+- 10/18 Tuesday \venue{LSB 202}\\
+  **Yuji Li**
+  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
+  - \collapsible{Summary}{\inputsmmry{2022/s221018.md}}
+
+- 9/20 - 9/27 Tuesdays \venue{LSB 202}\\
+  **Caiyun Ma**
+  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
+  - Deliu, Anca; Geronimo, J. S.; Shonkwiler, R. & Hardin, D.. \href{Dimensions associated with recurrent self-similar sets}{https://doi.org/10.1017/S0305004100070407}. *Math. Proc. Cambridge Philos. Soc. , Vol. 110, No. 2 p. 327-336. 1991.*
+  - \collapsible{Outline}{\inputoutln{2022/o220920.md}}
+  - \collapsible{Summary}{\inputsmmry{2022/s220920.md}}
+  - \href{Note}{https://drive.google.com/file/d/1-xWGeTkn_WdqiX-WdYs9FLDX-RTpvmdy}.
+
 - 9/13 Tuesday \venue{LSB 202}\\
   **Yuhao Xie**
   - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
