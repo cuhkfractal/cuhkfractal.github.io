@@ -5,14 +5,19 @@ tags = ["schedule", "student"]
 # Student Seminars
 A series of analysis seminars, with an emphasis on the interests of the [group](/about/), normally takes place on Tuesday afternoons at 14:30 HKT in LSB 202. All are welcome.
 
-\href{Seminar Topics 2022}{/assets/topics/StdsemTopics2022.pdf}\\
 
 # Upcoming
-## 2022
+## 2023
 - To be announced.
 
 # Previous
 ## 2022
+\href{Seminar Topics 2022}{/assets/topics/StdsemTopics2022.pdf}\\
+- 11/15 Tuesday \venue{LSB 202}\\
+  **Yuhao Xie**
+  - Jordan, Thomas; Pollicott, Mark & Simon, Károly. \href{Hausdorff dimension for randomly perturbed self affine attractors}{https://doi.org/10.1007/s00220-006-0161-7}. *Comm. Math. Phys. , Vol. 270, No. 2 p. 519-544. 2007.*
+  - \collapsible{Outline}{\inputoutln{2022/o221115.md}}
+
 - 11/1 Tuesday \venue{LSB 202}\\
   **Zhou Feng**
   - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*

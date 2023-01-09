@@ -8,10 +8,22 @@ tags = ["graduate"]
 This is an experimental page for the record of *graduate seminars* organized by Professor \href{De-Jun Feng}{https://www.math.cuhk.edu.hk/~djfeng/}. This series of seminars will normally be held in the afternoons at 14:30 HKT LSB 222. All the files and resources are purely for academic use.
 
 # Upcoming
-## 2022
+## 2023
 - To be announced.
 # Previous
+<!-- ## 2023 -->
+
 ## 2022
+- 11/23 Wednesday \venue{LSB 239}\\
+  **Yuhao Xie**
+  - Kaufman, Robert. \href{On Hausdorff dimension of projections}{}. *Mathematika , Vol. 15, No. 2 London Mathematical Society p. 153–155. 1968.*
+  - \collapsible{Outline}{\inputoutln{2022/o221123.md}}
+
+- 9/24 — 12/9 Fridays \venue{LSB 222}\\
+  **\href{Károly Simon}{https://math.bme.hu/~simonk/}**
+  - A mini-course about fractal percolation and randomly perturbed self-affine sets.
+  - \href{Course description}{/assets/refs/Course_description.pdf}
+  
 - 7/15 Friday \venue{LSB 219}\\
   **Yuhao Xie**
   - Peres, Yuval; Simon, Károly & Solomyak, Boris. \href{Self-similar sets of zero Hausdorff measure and positive packing measure}{https://doi.org/10.1007/BF02773577}. *Israel J. Math. , Vol. 117 p. 353-379. 2000.*
