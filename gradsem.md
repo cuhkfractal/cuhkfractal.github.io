@@ -14,6 +14,11 @@ This is an experimental page for the record of *graduate seminars* organized by 
 <!-- ## 2023 -->
 
 ## 2022
+- 12/29 Thursday \venue{LSB 239}\\
+  **\href{Tongou Yang}{https://people.math.wisc.edu/~tyang347/} (UWisc)**
+  - Pramanik, Malabika; Yang, Tongou & Zahl, Joshua. \href{A Furstenberg-type problem for circles, and a Kaufman-type restricted projection theorem in ℝ^3}{https://arxiv.org/abs/2207.02259}. *arXiv 2022.*
+  - \collapsible{Outline}{\inputoutln{2022/o221123.md}}
+
 - 11/23 Wednesday \venue{LSB 239}\\
   **Yuhao Xie**
   - Kaufman, Robert. \href{On Hausdorff dimension of projections}{}. *Mathematika , Vol. 15, No. 2 London Mathematical Society p. 153–155. 1968.*
