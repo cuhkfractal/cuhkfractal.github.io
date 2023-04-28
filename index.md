@@ -1,160 +1,115 @@
 +++
-title = "Student Seminars"
-tags = ["schedule", "student"]
+title = "Graduate Seminars"
+tags = ["graduate"]
 +++
-# Student Seminars
-A series of analysis seminars, with an emphasis on the interests of the [group](/about/), normally takes place on Tuesday afternoons at 14:30 HKT in LSB 202. All are welcome.
 
+# Graduate Seminars
+
+This is an experimental page for the records of *graduate seminars* organized by Professor \href{De-Jun Feng}{https://www.math.cuhk.edu.hk/~djfeng/}. This series of seminars preferring the research interests of the [group](/about/) will normally be held in the mornings at 9:30 HKT LSB 219. All the files and resources are and shall be purely for academic use. All are welcome.
 
 # Upcoming
 ## 2023
 - To be announced.
-
 # Previous
+## 2023
+- 03/28 Tuesday \venue{LSB 219}\\
+  **Zhou Feng**
+  - Feng, De-Jun. \href{Equilibrium states for factor maps between subshifts}{https://doi.org/10.1016/j.aim.2010.09.012}. *Adv. Math. , Vol. 226, No. 3 p. 2470-2502. 2011.*
+  - \collapsible{Outline}{\inputoutln{2023/o230328.md}}
+  - \href{A note on the thermodynamic formalism.}{/assets/notes/nTF.pdf}\\
+
+- 03/21 Tuesday \venue{LSB 219}\\
+  **Yuhao Xie**
+  - Bowen, Rufus. \href{Equilibrium states and the ergodic theory of Anosov diffeomorphisms}{https://drive.google.com/open?id=1rJ5DWrXUXceeg80_pfG7uOa0QlFuO5W3}. * Lecture Notes in Mathematics, Vol. 470 Springer-Verlag, Berlin-New York p. i+108. 1975.*
+  - \collapsible{Outline}{\inputoutln{2023/o230321.md}}
+
+- 03/14 Tuesday \venue{LSB 219}\\
+  **Yuhao Xie**
+  - Cao, Yong-Luo; Feng, De-Jun & Huang, Wen. \href{The thermodynamic formalism for sub-additive potentials}{https://doi.org/10.3934/dcds.2008.20.639}. *Discrete Contin. Dyn. Syst. , Vol. 20, No. 3 p. 639-657. 2008.*
+  - \collapsible{Outline}{\inputoutln{2023/o230314.md}}
+
+- 03/14 Tuesday \venue{LSB 219}\\
+  **Caiyun Ma**
+  - Walters, Peter. \href{An introduction to ergodic theory}{}. *Vol. 79, Graduate Texts in Mathematics Springer-Verlag, New York-Berlin p. ix+250. 1982.*
+  - \collapsible{Outline}{\inputoutln{2023/o230314a.md}}
+  - \href{Note}{https://drive.google.com/open?id=1nS8YtSn0wt7Kur-0Spi6HWHtlPZRPnJc}.
+
+
 ## 2022
-\href{Seminar Topics 2022}{/assets/topics/StdsemTopics2022.pdf}\\
-- 11/15 Tuesday \venue{LSB 202}\\
+- 12/29 Thursday \venue{LSB 239}\\
+  **\href{Tongou Yang}{https://people.math.wisc.edu/~tyang347/} (UWisc)**
+  - Pramanik, Malabika; Yang, Tongou & Zahl, Joshua. \href{A Furstenberg-type problem for circles, and a Kaufman-type restricted projection theorem in ℝ^3}{https://arxiv.org/abs/2207.02259}. *arXiv 2022.*
+  - \collapsible{Outline}{\inputoutln{2022/o221123.md}}
+
+- 11/23 Wednesday \venue{LSB 239}\\
   **Yuhao Xie**
-  - Jordan, Thomas; Pollicott, Mark & Simon, Károly. \href{Hausdorff dimension for randomly perturbed self affine attractors}{https://doi.org/10.1007/s00220-006-0161-7}. *Comm. Math. Phys. , Vol. 270, No. 2 p. 519-544. 2007.*
-  - \collapsible{Outline}{\inputoutln{2022/o221115.md}}
+  - Kaufman, Robert. \href{On Hausdorff dimension of projections}{}. *Mathematika , Vol. 15, No. 2 London Mathematical Society p. 153–155. 1968.*
+  - \collapsible{Outline}{\inputoutln{2022/o221123.md}}
 
-- 11/1 Tuesday \venue{LSB 202}\\
-  **Zhou Feng**
-  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
-  - \collapsible{Summary}{\inputsmmry{2022/s221101.md}}
-  - \href{Note}{https://drive.google.com/open?id=1tZ8e5M1QcTR_rZ3tq2AN7NMYSBPpA2DO}.
-
-- 10/18 Tuesday \venue{LSB 202}\\
-  **Yuji Li**
-  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
-  - \collapsible{Summary}{\inputsmmry{2022/s221018.md}}
-
-- 9/20 - 9/27 Tuesdays \venue{LSB 202}\\
-  **Caiyun Ma**
-  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
-  - Deliu, Anca; Geronimo, J. S.; Shonkwiler, R. & Hardin, D.. \href{Dimensions associated with recurrent self-similar sets}{https://doi.org/10.1017/S0305004100070407}. *Math. Proc. Cambridge Philos. Soc. , Vol. 110, No. 2 p. 327-336. 1991.*
-  - \collapsible{Outline}{\inputoutln{2022/o220920.md}}
-  - \collapsible{Summary}{\inputsmmry{2022/s220920.md}}
-  - \href{Note}{https://drive.google.com/file/d/1-xWGeTkn_WdqiX-WdYs9FLDX-RTpvmdy}.
-
-- 9/13 Tuesday \venue{LSB 202}\\
-  **Yuhao Xie**
-  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
-  - \collapsible{Outline}{\inputoutln{2022/o220913.md}}
-
-- 7/26 Tuesday \venue{Zoom}\\
-  **Caiyun Ma**
-  - Falconer, K. J.. \href{Generalized dimensions of measures on self-affine sets}{https://doi.org/10.1088/0951-7715/12/4/308}. *Nonlinearity , Vol. 12, No. 4 p. 877-891. 1999.*
-  - \href{Note}{https://drive.google.com/file/d/1hpJ-gZH1M1s6c9bAli2Vbxi5VzzirRfr/view}.
-
-- 5/10 Tuesday \venue{Zoom}\\
-  **Yuhao Xie**
-  - Lagarias, Jeffrey C. & Wang, Yang. \href{Self-affine tiles in R^n}{https://doi.org/10.1006/aima.1996.0045}. *Adv. Math. , Vol. 121, No. 1 p. 21-49. 1996.*
-  - \href{Note}{https://drive.google.com/file/d/11ZWU7RRedv7k8JQL5cUXnmsYR6SIEeK-}.
-  - \collapsible{Outline}{\inputoutln{2022/o220510.md}}
+- 9/24 — 12/9 Fridays \venue{LSB 222}\\
+  **\href{Károly Simon}{https://math.bme.hu/~simonk/}**
+  - A mini-course about fractal percolation and randomly perturbed self-affine sets.
+  - \href{Course description}{/assets/refs/Course_description.pdf}
   
-- 5/3 Tuesday \venue{Zoom}\\
-  **Zhou Feng**
-  - Kenyon, Richard. \href{Projecting the one-dimensional Sierpinski gasket}{https://doi.org/10.1007/BF02774038}. *Israel J. Math. , Vol. 97 p. 221-238. 1997.*
-  - \href{Note}{https://drive.google.com/open?id=1IZ6HhhciZHMrzTJ1jvfnkRoKCVvToFEF}; \href{Dimension for IFS with exact-overlaps}{/assets/misc/Dim_1d_Rational_IFS.html}.
-  - \collapsible{Summary}{\inputsmmry{2022/s220503.md}}
-  - A joint note in progress: \href{Basics on Moran structures}{/assets/wip/Moran.pdf}
-  
-- 4/26 Tuesday \venue{Zoom}\\
-  **Yuji Li**
-  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
-  - \href{Note}{https://drive.google.com/file/d/1SlNLURE0CdbvddzcZCQwoWcUO0jHgQU7}.
-
-- 4/12 Tuesday \venue{Zoom}\\
-  **Tianhan Yi**
-  - Falconer, K. J.. \href{On the Hausdorff dimensions of distance sets}{https://doi.org/10.1112/S0025579300010998}. *Mathematika , Vol. 32, No. 2 p. 206-212 (1986). 1985.*
-  - \href{Note}{https://drive.google.com/file/d/1puhFgibgz9-lbuJY-oQpKvY2LQkti8vL}.
-  - \collapsible{Outline}{\inputoutln{2022/o220412.md}}
-
-- 3/29 Tuesday \venue{Zoom}\\
+- 7/15 Friday \venue{LSB 219}\\
   **Yuhao Xie**
-  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
-  - \href{Note}{https://drive.google.com/file/d/1LzS7Qr6QOYNXKHHg8_FvjZmB21KmMK0Q/view}.
-  - \collapsible{Outline}{\inputoutln{2022/o220329.md}}
+  - Peres, Yuval; Simon, Károly & Solomyak, Boris. \href{Self-similar sets of zero Hausdorff measure and positive packing measure}{https://doi.org/10.1007/BF02773577}. *Israel J. Math. , Vol. 117 p. 353-379. 2000.*
+  - \collapsible{Outline}{\inputoutln{2022/o220715.md}}
 
-- 3/22 Tuesday \venue{Zoom}\\
-  **Zhou Feng**
-  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
-  - \href{Note}{https://drive.google.com/open?id=1WS1vjzSHjpr0CjsdN7nIqci7Fhe-3Dlk}.
-  - \collapsible{Summary}{\inputsmmry{2022/s220322.md}}
-
-- 3/15 Tuesday \venue{Zoom}\\
+- 4/22 — 4/29 Fridays \venue{Zoom}\\
   **Yuji Li**
-  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
-  - \href{Note}{https://drive.google.com/open?id=1NdJETPCC4Y5QnolEGUAFOR_jfNZa14pH}.
+  - Shepp, L. A.. \href{Covering the circle with random arcs}{https://doi.org/10.1007/BF02789327}. *Israel J. Math. , Vol. 11 p. 328-345. 1972.*
+  - \href{Note}{https://drive.google.com/file/d/1XalyWk7SH8VQtcYHurab2Cqh0O-5w7Bi}.
+  - \collapsible{Summary}{\inputsmmry{2022/s220429.md}}
 
-- 3/1 — 3/8 Tuesdays \venue{Zoom}\\
-  **Caiyun Ma**
-  - Feng, Dejun; Wen, Zhiying & Wu, Jun. \href{Some dimensional results for homogeneous Moran sets}{https://doi.org/10.1007/BF02896955}. *Sci. China Ser. A , Vol. 40, No. 5 p. 475-482. 1997.*
-  - \collapsible{Outline 3/1}{\inputoutln{2022/o220301.md}}
-  - Feng, Dejun; Rao, Hui & Wu, Jun. \href{The net measure properties of symmetric Cantor sets and their applications}{/assets/refs/FengRaoWu_NetPropertiesSymCantor.pdf}. *Progr. Natur. Sci. (English Ed.) , Vol. 7, No. 2 p. 172-178. 1997.*
-  - \collapsible{Outline 3/8}{\inputoutln{2022/o220308.md}}
-  - \href{Note 3/1}{https://drive.google.com/open?id=1o8orbGwIyH6ofbdy89ZSdZz--5iKhKzZ}; \href{Note 3/8}{https://drive.google.com/open?id=1Bvs7Msl1kUMe_GbF33-mQNr5IurasM3_}.
-
-- 2/15 Tuesday \venue{Zoom}\\
-  **Tianhan Yi**
-  - Einsiedler, Manfred & Ward, Thomas. \href{Ergodic theory with a view towards number theory}{https://doi.org/10.1007/978-0-85729-021-2}. *Vol. 259. Graduate Texts in Mathematics Springer-Verlag London, Ltd., London p. xviii+481. 2011.*
-  - \href{Note}{https://drive.google.com/file/d/1fXRkUQqngDIt9Z5FpLFOUTvmtxZcIDoU/view?usp=sharing}.
-
-- 2/8 Tuesday \venue{Zoom}\\
-  **Caiyun Ma**
-  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
-  - \collapsible{Outline}{\inputoutln{2022/o220208.md}} 
-  - \href{Note}{https://drive.google.com/open?id=1-NDR7g4SuI6YBTJdpva2SUuaYsFp9uPe}.
-
-- 1/25 Tuesday \venue{LSB 202}\\
+- 4/15 Friday \venue{Zoom}\\
   **Yuhao Xie**
-  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
-  - \collapsible{Outline}{\inputoutln{2022/o220125.md}} 
+  - Morris, Ian D.. \href{On dense intermingling of exact overlaps and the open set condition}{https://arxiv.org/abs/2203.03408}. *arXiv:2203.03408. 2022.*
+  - \href{Note}{https://drive.google.com/file/d/1v5lK8qfAdkvOV2TPyRcZLC9fDM0IW9Ka}
+  - \collapsible{Outline}{\inputoutln{2022/o220415.md}}
 
+- 3/11 — 4/1 Fridays \venue{Zoom}\\
+  **Jianci Xiao**
+  - Hochman, Michael. \href{On self-similar sets with overlaps and inverse theorems for entropy}{https://doi.org/10.4007/annals.2014.180.2.7}. *Ann. of Math. (2) , Vol. 180, No. 2 p. 773-822. 2014.*
+  - \href{Note-1}{https://drive.google.com/file/d/1gvSviW4odYgpJZ4p6KG6CuopS5Cx9AZS}; \href{Note-2}{https://drive.google.com/file/d/1qgHfBeTMVPSg0m3dNzRKQvJHg3BCRxOn}; \href{Note-3}{https://drive.google.com/file/d/1yVvCjq4mXabcirDpt21NmmSpHIfNeYGP}; \href{Note-4}{https://drive.google.com/file/d/1AV46-ZB10cWD4JE7EFvx60OXqFbQgLrB}.
+
+- 1/21 — 2/25 Fri. & Wed. \venue{LSB 222 & Zoom}\\
+  **Zhou Feng**
+  - Varjú, Péter P.. \href{Absolute continuity of Bernoulli convolutions for algebraic parameters}{https://doi.org/10.1090/jams/916}. *J. Amer. Math. Soc. , Vol. 32, No. 2 p. 351-397. 2019.*
+  - \collapsible{Outline}{\inputoutln{2022/o220121.md}}
+  - \noteref{Outline}{2022/220121/o220121.pdf}; \noteref{Key Theorems}{2022/220121/KeyThms.pdf}; \href{Average entropy examples}{/assets/notes/2022/220121/EntropyExamples.jl.html}.
+  - \href{Notes}{https://mycuhk-my.sharepoint.com/:f:/g/personal/1155136793_link_cuhk_edu_hk/Et1amdqGKvZEjAKINOzU1-EBhBWiUXjiwPCPX52em8_wlA?e=YbnvNG}; Video recordings: \href{2/9}{https://cuhk.zoom.us/rec/share/wlM4uy931oOB96sczdsG-FtJtT6gKTQE_8M8ESeKj0JdNsaSTqP1mjoF6vpMuGfb.4I7mGWAocEl6weIO?startTime=1644387764000}; \href{2/11}{https://cuhk.zoom.us/rec/share/hyhVtL2l32R1X_UZtP3MicRbKeICpH3kUHCiTGiOg5txybKcuOZ-NetwSHjNWuq_.9GFTdvICKJbFFwm2?startTime=1644560660000}.
+
+- 1/14 Friday \venue{LSB 222}\\
+  **Yuhao Xie**
+  - Morris, Ian D.. \href{When does an affine iterated function system preserve an affine subspace for all choices of translation vectors?}{https://arxiv.org/abs/2111.02324}. *Arxiv preprint, Arxiv: \href{2111.02324}{https://arxiv.org/abs/2111.02324}. 2021.*
+  - \collapsible{Outline}{\inputoutln{2022/o220114.md}}
 ## 2021
-- 11/23 — 11/30 Tuesdays \venue{LSB 202}\\
-  **Yuhao Xie**
-  - Hochman, Michael & Shmerkin, Pablo. \href{Local entropy averages and projections of fractal measures}{https://annals.math.princeton.edu/wp-content/uploads/annals-v175-n3-p01-s.pdf}. *Ann. of Math. (2) , Vol. 175, No. 3 p. 1001-1059. 2012.*
-
-- 10/19 — 11/9 Tuesdays \venue{LSB 202}\\
-  **Zhou Feng**
-  - Breuillard, E. & Varjú, P. P. \href{Cut-off phenomenon for the ax+b Markov chain over a finite field}{https://arxiv.org/pdf/1909.09053.pdf}. *ArXiv:1909.09053. 2019.*
-  - \collapsible{Outline}{\inputoutln{2021/o211019.md}} 
-  - \collapsible{Summary}{\inputsmmry{2021/s211109.md}}
-
-- 9/28 — 10/12  Tuesdays \venue{LSB 202}\\
-  **Yuji Li**
-  - Bishop, C. J. & Peres, Y. \href{Fractals in probability and analysis}{https://www.cambridge.org/core/books/fractals-in-probability-and-analysis/D8CBD4181FDC20C387E22939DA2F6168}. *Cambridge University Press, Cambridge, 2017, 162, ix+402*
-  - Bourgain, J. \href{Ruzsa's problem on sets of recurrence}{https://link.springer.com/content/pdf/10.1007/BF02787258.pdf}. *Israel J. Math., 1987, 59, 150-166*
-  - \collapsible{Outline}{\inputoutln{2021/o210928.md}} 
-
-- 9/14 Tuesday \venue{LSB 202}\\
+- 11/12 — 12/3 Fridays \venue{LSB 222}\\
   **Tianhan Yi**
-  - Einsiedler, M. & Ward, T. \href{Ergodic theory with a view towards number theory: Chp11}{https://link.springer.com/content/pdf/10.1007%2F978-0-85729-021-2.pdf}. *Springer-Verlag London, Ltd., London, 2011, 259, xviii+481.*
-  - \collapsible{Outline}{\inputoutln{2021/o210914.md}} 
+  - Wu, Meng. \href{A proof of Furstenberg's conjecture on the intersections of × p- and × q-invariant sets}{https://www.jstor.org/stable/pdf/10.4007/annals.2019.189.3.2.pdf}. *Ann. of Math. (2) , Vol. 189, No. 3 p. 707-751. 2019.*
+  - \href{Notes}{https://drive.google.com/file/d/1Ea5COunQIRirT1zKF3qGv7MCho4hSgWU/view?usp=sharing} 
 
-- 9/7 Tuesday \venue{LSB 239}\\
-  **Yuhao Xie**
-  - Falconer, K. J. & Marsh, D. T. \href{On the Lipschitz equivalence of Cantor sets}{https://londmathsoc.onlinelibrary.wiley.com/doi/epdf/10.1112/S0025579300014959}. *Mathematika, 1992, 39, 223-233*
-  - \collapsible{Outline}{\inputoutln{2021/o210907.md}} 
-
-- 8/17 — 8/31 Tuesdays \venue{LSB 239}\\
+- 10/15 — 11/5 Fridays \venue{LSB 222}\\
   **Caiyun Ma**
-  - Feng, D.-J. \href{Lyapunov exponents for products of matrices and multifractal analysis. I. Positive matrices}{https://link.springer.com/content/pdf/10.1007/BF02783432.pdf}. *Israel J. Math.*, 2003, 138, 353-376.
-  - \collapsible{Summary}{\inputsmmry{2021/s210831.md}} 
+  - Shmerkin, P. Ergodic Geometric Measure Theory. *Lecture notes (Please [contact members](/about/index.html##group_members) to get the unpublished notes)*. 
+  - \collapsible{Outline}{\inputoutln{2021/o211105.md}}
 
-- 7/27 — 8/10 Tuesdays \venue{Zoom}\\
-  **Jiaming Wu**
-  - Einsiedler, M. & Ward, T. \href{Ergodic theory with a view towards number theory}{https://link.springer.com/content/pdf/10.1007%2F978-0-85729-021-2.pdf}. *Springer-Verlag London, Ltd., London,* 2011, 259, xviii+481. Chp 9.
-  - *Notes*
+- 9/17 — 9/24 Fridays \venue{LSB 222}\\
+  **Yuhao Xie**
+  - Feng, D.-J.; Huang, W. & Rao, H. \href{Affine embeddings and intersections of Cantor sets}{https://www.sciencedirect.com/science/article/pii/S002178241400035X?via%3Dihub}. *J. Math. Pures Appl. (9), 2014, 102, 1062-1079*
+  - \collapsible{9/17 Outline}{\inputoutln{2021/o210917.md}}
+  - \collapsible{9/24 Outline}{\inputoutln{2021/o210924.md}}
 
-- 6/22 — 7/20 Tuesdays \venue{LSB 222}\\
-  **Zhou Feng**
-  - \biblabel{Rapaport2020}{Rapaport (2020)} A. Rapaport. \href{Exact dimensionality and Ledrappier-Young formula for the Furstenberg measure}{https://arxiv.org/pdf/2007.06326.pdf}. *To appear in Transactions of the AMS.*
-  - *Notes*
+- 8/27 Friday \venue{LSB 222}\\
+  **Yuhao Xie**
+  - Bary, N. K. \href{A treatise on trigonometric series. Vols. I, II. Chp1}{/assets/refs/Bary1964_Chp1.pdf}. *The Macmillan Co., New York, 1964, Vol. I: xxiii+553 pp. Vol. II: xix+508*.
+  - \collapsible{Outline}{\inputoutln{2021/o210827.md}}
+  - \collapsible{Summary}{\inputsmmry{2021/s210827.md}}
 
-- Last century  — 6/15 Tuesdays \venue{LSB 222}\\
-  **Tianhan Yi**
-  - Benoist, Y. & Quint, J.-F. \href{Random walks on reductive groups}{https://link.springer.com/content/pdf/10.1007%2F978-3-319-47721-3.pdf}. *Springer, Cham,* 2016, 62, xi+323. Chp 1--5.
-  - *Notes*
+- 8/20 Friday \venue{LSB 222}\\
+  **Yuhao Xie**
+  - Feng, D.-J.; Rao, H. & Wang, Y. \href{Self-similar subsets of the Cantor set}{https://www.math.cuhk.edu.hk/~djfeng/fengpapers/Feng-Rao-Wang/FRW-2014-6.pdf}. *Adv. Math.*, 2015, 281, 857-885
+  - Salem, R.  \href{Algebraic numbers and Fourier analysis}{/assets/refs/Salem1963_AlgNumAndFourier.pdf}. *D. C. Heath and Co., Boston, Mass.*, 1963, x+68
+  - \collapsible{Outline}{\inputoutln{2021/o210820.md}}
+  - \collapsible{Summary}{\inputsmmry{2021/s210820.md}}
