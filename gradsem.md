@@ -11,7 +11,29 @@ This is an experimental page for the record of *graduate seminars* organized by 
 ## 2023
 - To be announced.
 # Previous
-<!-- ## 2023 -->
+## 2023
+- 03/28 Tuesday \venue{LSB 219}\\
+  **Zhou Feng**
+  - Feng, De-Jun. \href{Equilibrium states for factor maps between subshifts}{https://doi.org/10.1016/j.aim.2010.09.012}. *Adv. Math. , Vol. 226, No. 3 p. 2470-2502. 2011.*
+  - \collapsible{Outline}{\inputoutln{2023/o230328.md}}
+  - \href{A note on the thermodynamic formalism.}{/assets/notes/nTF.pdf}\\
+
+- 03/21 Tuesday \venue{LSB 219}\\
+  **Yuhao Xie**
+  - Bowen, Rufus. \href{Equilibrium states and the ergodic theory of Anosov diffeomorphisms}{https://drive.google.com/open?id=1rJ5DWrXUXceeg80_pfG7uOa0QlFuO5W3}. * Lecture Notes in Mathematics, Vol. 470 Springer-Verlag, Berlin-New York p. i+108. 1975.*
+  - \collapsible{Outline}{\inputoutln{2023/o230321.md}}
+
+- 03/14 Tuesday \venue{LSB 219}\\
+  **Yuhao Xie**
+  - Cao, Yong-Luo; Feng, De-Jun & Huang, Wen. \href{The thermodynamic formalism for sub-additive potentials}{https://doi.org/10.3934/dcds.2008.20.639}. *Discrete Contin. Dyn. Syst. , Vol. 20, No. 3 p. 639-657. 2008.*
+  - \collapsible{Outline}{\inputoutln{2023/o230314.md}}
+
+- 03/14 Tuesday \venue{LSB 219}\\
+  **Caiyun Ma**
+  - Walters, Peter. \href{An introduction to ergodic theory}{}. *Vol. 79, Graduate Texts in Mathematics Springer-Verlag, New York-Berlin p. ix+250. 1982.*
+  - \collapsible{Outline}{\inputoutln{2023/o230314a.md}}
+  - \href{Note}{https://drive.google.com/open?id=1nS8YtSn0wt7Kur-0Spi6HWHtlPZRPnJc}.
+
 
 ## 2022
 - 12/29 Thursday \venue{LSB 239}\\
