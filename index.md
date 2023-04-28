@@ -20,7 +20,7 @@ This is an experimental page for the records of *graduate seminars* organized by
 
 - 03/21 Tuesday \venue{LSB 219}\\
   **Yuhao Xie**
-  - Bowen, Rufus. \href{Equilibrium states and the ergodic theory of Anosov diffeomorphisms}{https://drive.google.com/open?id=1rJ5DWrXUXceeg80_pfG7uOa0QlFuO5W3}. * Lecture Notes in Mathematics, Vol. 470 Springer-Verlag, Berlin-New York p. i+108. 1975.*
+  - Bowen, Rufus. \href{Equilibrium states and the ergodic theory of Anosov diffeomorphisms}{https://drive.google.com/open?id=1rJ5DWrXUXceeg80_pfG7uOa0QlFuO5W3}. *Lecture Notes in Mathematics, Vol. 470 Springer-Verlag, Berlin-New York p. i+108. 1975.*
   - \collapsible{Outline}{\inputoutln{2023/o230321.md}}
 
 - 03/14 Tuesday \venue{LSB 219}\\
