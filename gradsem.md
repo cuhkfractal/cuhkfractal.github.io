@@ -5,7 +5,7 @@ tags = ["graduate"]
 
 # Graduate Seminars
 
-This is an experimental page for the record of *graduate seminars* organized by Professor \href{De-Jun Feng}{https://www.math.cuhk.edu.hk/~djfeng/}. This series of seminars will normally be held in the afternoons at 14:30 HKT LSB 222. All the files and resources are purely for academic use.
+This is an experimental page for the records of *graduate seminars* organized by Professor \href{De-Jun Feng}{https://www.math.cuhk.edu.hk/~djfeng/}. This series of seminars preferring the research interests of the [group](/about/) will normally be held in the mornings at 9:30 HKT LSB 219. All the files and resources are and shall be purely for academic use. All are welcome.
 
 # Upcoming
 ## 2023
