@@ -12,6 +12,12 @@ This is an experimental page for the records of *graduate seminars* organized by
 - To be announced.
 # Previous
 ## 2023
+- 04/25 Tuesday \venue{LSB 219}\\
+  **Tianhan Yi**
+  - Hochman, Michael. \href{Lectures on dynamics, fractal geometry, and metric number theory}{https://doi-org.easyaccess1.lib.cuhk.edu.hk/10.3934/jmd.2014.8.437}. *J. Mod. Dyn. , Vol. 8, No. 3-4 p. 437-497. 2014.*
+  - \collapsible{Outline}{\inputoutln{2023/o230425.md}}
+  - \collapsible{Summary}{\inputsmmry{2023/s230425.md}}
+
 - 03/28 Tuesday \venue{LSB 219}\\
   **Zhou Feng**
   - Feng, De-Jun. \href{Equilibrium states for factor maps between subshifts}{https://doi.org/10.1016/j.aim.2010.09.012}. *Adv. Math. , Vol. 226, No. 3 p. 2470-2502. 2011.*
