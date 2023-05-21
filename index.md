@@ -14,7 +14,7 @@ This is an experimental page for the records of *graduate seminars* organized by
 ## 2023
 - 04/25 Tuesday \venue{LSB 219}\\
   **Tianhan Yi**
-  - Hochman, Michael. \href{Lectures on dynamics, fractal geometry, and metric number theory}{https://doi-org.easyaccess1.lib.cuhk.edu.hk/10.3934/jmd.2014.8.437}. *J. Mod. Dyn. , Vol. 8, No. 3-4 p. 437-497. 2014.*
+  - Hochman, Michael. \href{Lectures on dynamics, fractal geometry, and metric number theory}{http://math.huji.ac.il/~mhochman/preprints/bedlewo-notes.pdf}. *J. Mod. Dyn. , Vol. 8, No. 3-4 p. 437-497. 2014.*
   - \collapsible{Outline}{\inputoutln{2023/o230425.md}}
   - \collapsible{Summary}{\inputsmmry{2023/s230425.md}}
 
@@ -56,7 +56,7 @@ This is an experimental page for the records of *graduate seminars* organized by
   **\href{Károly Simon}{https://math.bme.hu/~simonk/}**
   - A mini-course about fractal percolation and randomly perturbed self-affine sets.
   - \href{Course description}{/assets/refs/Course_description.pdf}
-  
+
 - 7/15 Friday \venue{LSB 219}\\
   **Yuhao Xie**
   - Peres, Yuval; Simon, Károly & Solomyak, Boris. \href{Self-similar sets of zero Hausdorff measure and positive packing measure}{https://doi.org/10.1007/BF02773577}. *Israel J. Math. , Vol. 117 p. 353-379. 2000.*
@@ -94,11 +94,11 @@ This is an experimental page for the records of *graduate seminars* organized by
 - 11/12 — 12/3 Fridays \venue{LSB 222}\\
   **Tianhan Yi**
   - Wu, Meng. \href{A proof of Furstenberg's conjecture on the intersections of × p- and × q-invariant sets}{https://www.jstor.org/stable/pdf/10.4007/annals.2019.189.3.2.pdf}. *Ann. of Math. (2) , Vol. 189, No. 3 p. 707-751. 2019.*
-  - \href{Notes}{https://drive.google.com/file/d/1Ea5COunQIRirT1zKF3qGv7MCho4hSgWU/view?usp=sharing} 
+  - \href{Notes}{https://drive.google.com/file/d/1Ea5COunQIRirT1zKF3qGv7MCho4hSgWU/view?usp=sharing}
 
 - 10/15 — 11/5 Fridays \venue{LSB 222}\\
   **Caiyun Ma**
-  - Shmerkin, P. Ergodic Geometric Measure Theory. *Lecture notes (Please [contact members](/about/index.html##group_members) to get the unpublished notes)*. 
+  - Shmerkin, P. Ergodic Geometric Measure Theory. *Lecture notes (Please [contact members](/about/index.html##group_members) to get the unpublished notes)*.
   - \collapsible{Outline}{\inputoutln{2021/o211105.md}}
 
 - 9/17 — 9/24 Fridays \venue{LSB 222}\\
