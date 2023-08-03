@@ -9,6 +9,13 @@ This is an experimental page for the records of *graduate seminars* organized by
 
 # Upcoming
 ## 2023
+- 08/07 16:00 - 17:00 Monday \venue{LSB 222}\\
+  **Ying XIONG**
+  - Affiliation: South China University of Technology
+  - Title: *Equidistribution for measures defined by digit restrictions*
+  - \collapsible{Abstract}{\inputoutln{2023/o230807xiong.md}}
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230803/as_20230807_ying_xiong.pdf}.
+
 - 08/07 14:30 - 15:30 Monday \venue{LSB 222}\\
   **Xiong JIN**
   - Affiliation: University of Manchester 
