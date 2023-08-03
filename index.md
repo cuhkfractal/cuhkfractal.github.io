@@ -12,6 +12,26 @@ This is an experimental page for the records of *graduate seminars* organized by
 - To be announced.
 # Previous
 ## 2023
+- 07/28 Friday \venue{LSB 222}\\
+  **Chun-Kit LAI**
+  - Affiliation: San Francisco State University
+  - Title: *On Measure and Topological Erdős Similarity Problems*
+  - \collapsible{Abstract}{\inputoutln{2023/o230728.md}}
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230726/as_20230728_chun-kit_lai.pdf}.
+  
+- 07/10 Monday \venue{LSB 222}\\
+  **Po Lam YUNG**
+  - Affiliation: Australian National University and The Chinese University of Hong Kong
+  - Title: *Some Recent Developments in Harmonic Analysis*- \collapsible{Abstract}{\inputoutln{2023/o230710.md}}
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230704/c230710_plyung.pdf}.
+  
+- 05/05 Friday \venue{LSB 222}\\
+  **Ai-Hua FAN**
+  - Affiliation: Huazhong Normal University and Université de Picardie
+  - Title: *A Topological Version of the Furstenberg-Kesten Theorem*
+  - \collapsible{Abstract}{\inputoutln{2023/o230505.md}}
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230428/as_20230505_aihua_fan.pdf}.
+
 - 04/25 Tuesday \venue{LSB 219}\\
   **Tianhan Yi**
   - Hochman, Michael. \href{Lectures on dynamics, fractal geometry, and metric number theory}{http://math.huji.ac.il/~mhochman/preprints/bedlewo-notes.pdf}. *J. Mod. Dyn. , Vol. 8, No. 3-4 p. 437-497. 2014.*
