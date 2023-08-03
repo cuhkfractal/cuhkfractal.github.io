@@ -9,11 +9,18 @@ This is an experimental page for the records of *graduate seminars* organized by
 
 # Upcoming
 ## 2023
-- 08/07 Monday \venue{LSB 222}\\
+- 08/07 14:30 - 15:30 Monday \venue{LSB 222}\\
+  **Xiong JIN**
+  - Affiliation: University of Manchester 
+  - Title: *A Chung-Fuchs type theorem and degeneracy of critical Mandelbrot cascade measures*
+  - \collapsible{Abstract}{\inputoutln{2023/o230807jin.md}}
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230803/as_20230807_xiong_jin.pdf}.
+
+- 08/07 10:30 - 11:30 Monday \venue{LSB 222}\\
   **Qi ZHOU**
   - Affiliation: Nankai University
   - Title: *Fractal problems in Quasiperiodic Schrodinger operator*
-  - \collapsible{Abstract}{\inputoutln{2023/o230807.md}}
+  - \collapsible{Abstract}{\inputoutln{2023/o230807zhou.md}}
   - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230803/as_20230807_qi_zhou.pdf}.
 # Previous
 ## 2023
