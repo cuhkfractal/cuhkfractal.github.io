@@ -14,21 +14,21 @@ This is an experimental page for the records of *graduate seminars* organized by
   - Affiliation: South China University of Technology
   - Title: *Equidistribution for measures defined by digit restrictions*
   - \collapsible{Abstract}{\inputoutln{2023/o230807xiong.md}}
-  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230803/as_20230807_ying_xiong.pdf}.
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230803/as_20230807_ying_xiong.pdf}
 
 - 08/07 14:30 - 15:30 Monday \venue{LSB 222}\\
   **Xiong JIN**
   - Affiliation: University of Manchester 
   - Title: *A Chung-Fuchs type theorem and degeneracy of critical Mandelbrot cascade measures*
   - \collapsible{Abstract}{\inputoutln{2023/o230807jin.md}}
-  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230803/as_20230807_xiong_jin.pdf}.
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230803/as_20230807_xiong_jin.pdf}
 
 - 08/07 10:30 - 11:30 Monday \venue{LSB 222}\\
   **Qi ZHOU**
   - Affiliation: Nankai University
   - Title: *Fractal problems in Quasiperiodic Schrodinger operator*
   - \collapsible{Abstract}{\inputoutln{2023/o230807zhou.md}}
-  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230803/as_20230807_qi_zhou.pdf}.
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230803/as_20230807_qi_zhou.pdf}
 # Previous
 ## 2023
 - 07/28 Friday \venue{LSB 222}\\
@@ -36,20 +36,20 @@ This is an experimental page for the records of *graduate seminars* organized by
   - Affiliation: San Francisco State University
   - Title: *On Measure and Topological Erdős Similarity Problems*
   - \collapsible{Abstract}{\inputoutln{2023/o230728.md}}
-  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230726/as_20230728_chun-kit_lai.pdf}.
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230726/as_20230728_chun-kit_lai.pdf}
   
 - 07/10 Monday \venue{LSB 222}\\
   **Po Lam YUNG**
   - Affiliation: Australian National University and The Chinese University of Hong Kong
   - Title: *Some Recent Developments in Harmonic Analysis*- \collapsible{Abstract}{\inputoutln{2023/o230710.md}}
-  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230704/c230710_plyung.pdf}.
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230704/c230710_plyung.pdf}
   
 - 05/05 Friday \venue{LSB 222}\\
   **Ai-Hua FAN**
   - Affiliation: Huazhong Normal University and Université de Picardie
   - Title: *A Topological Version of the Furstenberg-Kesten Theorem*
   - \collapsible{Abstract}{\inputoutln{2023/o230505.md}}
-  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230428/as_20230505_aihua_fan.pdf}.
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230428/as_20230505_aihua_fan.pdf}
 
 - 04/25 Tuesday \venue{LSB 219}\\
   **Tianhan Yi**
