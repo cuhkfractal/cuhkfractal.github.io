@@ -9,7 +9,12 @@ This is an experimental page for the records of *graduate seminars* organized by
 
 # Upcoming
 ## 2023
-- To be announced.
+- 08/07 Monday \venue{LSB 222}\\
+  **Qi ZHOU**
+  - Affiliation: Nankai University
+  - Title: *Fractal problems in Quasiperiodic Schrodinger operator*
+  - \collapsible{Abstract}{\inputoutln{2023/o230807.md}}
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230803/as_20230807_qi_zhou.pdf}.
 # Previous
 ## 2023
 - 07/28 Friday \venue{LSB 222}\\
