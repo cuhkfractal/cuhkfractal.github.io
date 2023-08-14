@@ -11,7 +11,6 @@ This is an experimental page for the records of *graduate seminars* organized by
 ## 2023
 - 08/17 Thursday \venue{TBA} \\
   **Wai Kit Lam 林偉傑**
-  - Affiliation:
 # Previous
 ## 2023
 - 08/07 16:00 - 17:00 Monday \venue{LSB 222}\\
