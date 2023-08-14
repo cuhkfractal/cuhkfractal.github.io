@@ -9,6 +9,11 @@ This is an experimental page for the records of *graduate seminars* organized by
 
 # Upcoming
 ## 2023
+- 08/17 Thursday \venue{TBA} \\
+  **Wai Kit Lam 林偉傑**
+  - Affiliation:
+# Previous
+## 2023
 - 08/07 16:00 - 17:00 Monday \venue{LSB 222}\\
   **Ying XIONG**
   - Affiliation: South China University of Technology
@@ -29,8 +34,7 @@ This is an experimental page for the records of *graduate seminars* organized by
   - Title: *Fractal problems in Quasiperiodic Schrodinger operator*
   - \collapsible{Abstract}{\inputoutln{2023/o230807zhou.md}}
   - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230803/as_20230807_qi_zhou.pdf}
-# Previous
-## 2023
+
 - 07/28 Friday \venue{LSB 222}\\
   **Chun-Kit LAI**
   - Affiliation: San Francisco State University
