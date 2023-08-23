@@ -5,14 +5,25 @@ tags = ["graduate"]
 
 # Graduate Seminars
 
-This is an experimental page for the records of *graduate seminars* organized by Professor \href{De-Jun Feng}{https://www.math.cuhk.edu.hk/~djfeng/}. This series of seminars preferring the research interests of the [group](/about/) will normally be held in the mornings at 9:30 HKT LSB 219. All the files and resources are and shall be purely for academic use. All are welcome.
+This is an experimental page for the records of *graduate seminars* organized by Professor \href{De-Jun Feng}{https://www.math.cuhk.edu.hk/~djfeng/}. This series of seminars preferring the research interests of the [group](/about/) will normally be held in the mornings at 9:30 HKT LSB 222. All the files and resources are and shall be purely for academic use. All are welcome.
 
 # Upcoming
 ## 2023
-- 08/17 Thursday \venue{TBA} \\
+- 08/17 Thursday \venue{LSB 222} \\
   **Wai Kit Lam 林偉傑**
+  - Affiliation: National Taiwan University
+  - Titile: *On the Geometry of the Growing Ball of First-Passage Percolation*
+  - \collapsible{Abstract}{\inputoutln{2023/o230817.md}}
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230814/as20230817_lam_wai_kit.pdf}
 # Previous
 ## 2023
+- 08/17 Thursday \venue{LSB 222} \\
+  **Wai Kit Lam 林偉傑**
+  - Affiliation: National Taiwan University
+  - Titile: *On the Geometry of the Growing Ball of First-Passage Percolation*
+  - \collapsible{Abstract}{\inputoutln{2023/o230817.md}}
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230814/as20230817_lam_wai_kit.pdf}
+
 - 08/07 16:00 - 17:00 Monday \venue{LSB 222}\\
   **Ying XIONG 熊瑛**
   - Affiliation: South China University of Technology
