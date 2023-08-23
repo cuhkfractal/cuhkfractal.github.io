@@ -9,12 +9,12 @@ This is an experimental page for the records of *graduate seminars* organized by
 
 # Upcoming
 ## 2023
-- 08/17 Thursday \venue{LSB 222} \\
-  **Wai Kit Lam 林偉傑**
-  - Affiliation: National Taiwan University
-  - Titile: *On the Geometry of the Growing Ball of First-Passage Percolation*
-  - \collapsible{Abstract}{\inputoutln{2023/o230817.md}}
-  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230814/as20230817_lam_wai_kit.pdf}
+- 08/28 Monday 14:30 - 15:30 \venue{LSB 222} \\
+  **Weikun He 何伟鲲**
+  - Affiliation: Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences 
+  - Titile: *Dimension Theory of Groups of Circle Diffeomorphisms* 
+  - \collapsible{Abstract}{\inputoutln{2023/o230828.md}}
+  - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230822/as20230828_weikun_he.pdf}
 # Previous
 ## 2023
 - 08/17 Thursday \venue{LSB 222} \\
