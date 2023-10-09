@@ -5,7 +5,7 @@ tags = ["graduate"]
 
 # Graduate Seminars
 
-This is an experimental page for the records of *graduate seminars* organized by \href{De-Jun Feng}{https://www.math.cuhk.edu.hk/~djfeng/}. This series of seminars preferring the research interests of the [group](/about/) will normally be held in the afternoons at 9:30 HKT LSB 219. All the files and resources are and shall be purely for academic use. All are welcome.
+This is an experimental page for the records of *graduate seminars* organized by \href{De-Jun Feng}{https://www.math.cuhk.edu.hk/~djfeng/}. This series of seminars preferring the research interests of the [group](/about/) will normally be held in Friday afternoons at LSB 219. All the files and resources are and shall be purely for academic use. All are welcome.
 
 # Upcoming
 ## 2023
@@ -26,8 +26,8 @@ This is an experimental page for the records of *graduate seminars* organized by
 
 - 08/28 Monday 14:30 - 15:30 \venue{LSB 222} \\
   **Weikun He 何伟鲲**
-  - Affiliation: Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences 
-  - Titile: *Dimension Theory of Groups of Circle Diffeomorphisms* 
+  - Affiliation: Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
+  - Titile: *Dimension Theory of Groups of Circle Diffeomorphisms*
   - \collapsible{Abstract}{\inputoutln{2023/o230828.md}}
   - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230822/as20230828_weikun_he.pdf}
 
@@ -47,7 +47,7 @@ This is an experimental page for the records of *graduate seminars* organized by
 
 - 08/07 14:30 - 15:30 Monday \venue{LSB 222}\\
   **Xiong JIN 金雄**
-  - Affiliation: University of Manchester 
+  - Affiliation: University of Manchester
   - Title: *A Chung-Fuchs type theorem and degeneracy of critical Mandelbrot cascade measures*
   - \collapsible{Abstract}{\inputoutln{2023/o230807jin.md}}
   - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230803/as_20230807_xiong_jin.pdf}
@@ -65,13 +65,13 @@ This is an experimental page for the records of *graduate seminars* organized by
   - Title: *On Measure and Topological Erdős Similarity Problems*
   - \collapsible{Abstract}{\inputoutln{2023/o230728.md}}
   - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230726/as_20230728_chun-kit_lai.pdf}
-  
+
 - 07/10 Monday \venue{LSB 222}\\
   **Po Lam YUNG**
   - Affiliation: Australian National University and The Chinese University of Hong Kong
   - Title: *Some Recent Developments in Harmonic Analysis*- \collapsible{Abstract}{\inputoutln{2023/o230710.md}}
   - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230704/c230710_plyung.pdf}
-  
+
 - 05/05 Friday \venue{LSB 222}\\
   **Ai-Hua FAN 范爱华**
   - Affiliation: Huazhong Normal University and Université de Picardie
