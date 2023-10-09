@@ -3,14 +3,19 @@ title = "Student Seminars"
 tags = ["schedule", "student"]
 +++
 # Student Seminars
-A series of analysis seminars, with an emphasis on the interests of the [group](/about/), normally takes place on Tuesday afternoons at 14:30 HKT in LSB 202. All are welcome.
-
+A series of analysis seminars, with an emphasis on the interests of the [group](/about/), normally takes place on Tuesday afternoons at 14:30 HKT in LSB 219. All are welcome.
 
 # Upcoming
 ## 2023
-- To be announced.
+- A workshop on Tuesdays at 14:30 HKT in LSB 219.
 
 # Previous
+## 2023
+- 09/19 Tuesday \venue{LSB 219}\\
+  **Edouard Daviaud, Zhou Feng, and Cai-Yun Ma**
+  - Hochman, Michael & Shmerkin, Pablo. \href{Local entropy averages and projections of fractal measures}{https://doi.org/10.4007/annals.2012.175.3.1}. *Ann. of Math. (2) , Vol. 175, No. 3 p. 1001-1059. 2012.*
+  - \href{The outline of our workshop}{/assets/summaries/2023/s230919.jpg}
+
 ## 2022
 \href{Seminar Topics 2022}{/assets/topics/StdsemTopics2022.pdf}\\
 - 11/15 Tuesday \venue{LSB 202}\\
