@@ -9,14 +9,27 @@ This is an experimental page for the records of *graduate seminars* organized by
 
 # Upcoming
 ## 2023
+# Previous
+## 2023
+- 10/06 Friday \venue{LSB 219}\\
+  **Lü Fan 吕凡**
+  - Lü, Fan & Wu, Jun. \href{Diophantine analysis in beta-dynamical systems and Hausdorff dimensions}{https://doi.org/10.1016/j.aim.2015.12.016}. *Adv. Math. , Vol. 290 p. 919-937. 2016.*
+  - \collapsible{Outline}{\inputoutln{2023/o231006.md}}
+  - \collapsible{Summary}{\inputsmmry{2023/s231006.md}}
+
+- 09/22 — 09/29 Fridays \venue{LSB 219} \\
+  **Edouard Daviaud**
+  - Mass transference principle and diophantine approximation
+  - \collapsible{Summary for 09/22}{\inputsmmry{2023/s230922.md}}
+  - \collapsible{Summary for 09/29}{\inputsmmry{2023/s230929.md}}
+
 - 08/28 Monday 14:30 - 15:30 \venue{LSB 222} \\
   **Weikun He 何伟鲲**
   - Affiliation: Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences 
   - Titile: *Dimension Theory of Groups of Circle Diffeomorphisms* 
   - \collapsible{Abstract}{\inputoutln{2023/o230828.md}}
   - \href{Poster}{https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230822/as20230828_weikun_he.pdf}
-# Previous
-## 2023
+
 - 08/17 Thursday \venue{LSB 222} \\
   **Wai Kit Lam 林偉傑**
   - Affiliation: National Taiwan University
