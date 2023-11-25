@@ -1,6 +1,6 @@
 +++
 # Franklin global vars
-author = "Student Analysis Group"
+author = "CUHK Analysis Group"
 mintoclevel = 2
 div_content = "franklin-content"
 ignore = ["node_modules/"]
