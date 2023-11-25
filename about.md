@@ -34,7 +34,7 @@ To share opinions and discuss about the above topics, we initialize this series 
 <!-- We can be reached via contacts listed \href{here}{https://www.math.cuhk.edu.hk/people/research-graduate-students}. -->
 
 ## Recent members
-- Xiong Jin 金雄 (Visitor, 2023)
+- \href{Xiong Jin}{https://personalpages.manchester.ac.uk/staff/xiong.jin/} 金雄 (Visitor, 2023)
 - Jun Jason Luo 罗军 (Visitor, 2023)
 - Ying Xiong 熊瑛 (Visitor, 2023)
 - Yuji Li 李宇基 (MPhil, 2023)

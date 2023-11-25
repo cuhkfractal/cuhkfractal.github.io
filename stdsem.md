@@ -7,7 +7,7 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Upcoming
 ## 2023
-- A reading workshop on Tuesdays at 14:30 HKT in LSB 219.
+- A reading workshop on Tuesdays at 14:30 HKT in LSB 202.
 
 # Previous
 ## 2023
