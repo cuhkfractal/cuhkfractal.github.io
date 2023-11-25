@@ -3,11 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta property="og:description" content="Homepage of CUHK Analysis Group">
+  <!-- <meta property="og:description" content="Homepage of CUHK Analysis Group"> -->
   {{if hasmath}} {{insert head_katex.html }}     {{end}}
   {{if hascode}} {{insert head_highlight.html }}   {{end}}
   {{insert style.html}}
   {{isdef title}} <title>{{fill title}}</title>  {{end}}
+  {{isnotempty descr}} <meta property="og:description" content="{{ descr }}" > {{end}}
 </head>
 <body>
 {{insert sidebar.html}}

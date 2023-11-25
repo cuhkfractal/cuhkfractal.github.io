@@ -1,5 +1,6 @@
 +++
 title = "About - CUHK Analysis Group"
+descr = "Homepage of CUHK Analysis Group."
 tags = ["about", "members"]
 +++
 

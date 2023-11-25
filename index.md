@@ -1,5 +1,6 @@
 +++
 title = "Graduate Seminars - CUHK Analysis Group"
+descr = "Graduate Seminars in CUHK Analysis Group."
 tags = ["graduate"]
 +++
 
