@@ -27,7 +27,7 @@ To share opinions and discuss about the above topics, we initialize this series 
 - \href{Edouard Daviaud}{https://edouardaviaud-math.com}
 
 ### Visiting scholars:
-- Lü Fan 吕凡
+- Fan Lü 吕凡
   
 <!-- We can be reached via contacts listed \href{here}{https://www.math.cuhk.edu.hk/people/research-graduate-students}. -->
 
