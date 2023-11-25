@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "About - CUHK Analysis Group"
 tags = ["about", "members"]
 +++
 
@@ -32,10 +32,13 @@ To share opinions and discuss about the above topics, we initialize this series 
 <!-- We can be reached via contacts listed \href{here}{https://www.math.cuhk.edu.hk/people/research-graduate-students}. -->
 
 ## Recent members
+- Xiong Jin 金雄 (Visitor, 2023)
+- Jun Jason Luo 罗军 (Visitor, 2023)
 - Yuji Li 李宇基 (MPhil, 2023)
-- \href{Yufeng Wu}{https://scholar.google.com/citations?user=mbFO8r8AAAAJ&hl=en} 吴玉峰 (PhD, 2021)
+- Aleksi Pyörälä (Visitor, 2023)
+- \href{Yu-Feng Wu}{https://scholar.google.com/citations?user=mbFO8r8AAAAJ&hl=en} 吴玉峰 (PhD, 2021)
 - Jiaming Wu 吴嘉铭 (MPhil, 2021)
-- \href{Changhao Chen}{https://scholar.google.com/citations?user=RdLFzjsAAAAJ&hl=en} 陈昌浩 (Postdoc, 2020)
+- \href{Changhao Chen}{https://scholar.google.com/citations?user=RdLFzjsAAAAJ&hl=en} 陈昌昊 (Postdoc, 2020)
 
 ## Links
 - \href{A notebook for plotting IFS attractors}{/assets/misc/PlotIFS.jl.html}

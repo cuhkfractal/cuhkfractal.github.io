@@ -1,5 +1,5 @@
 +++
-title = "Graduate Seminars"
+title = "Graduate Seminars - CUHK Analysis Group"
 tags = ["graduate"]
 +++
 
