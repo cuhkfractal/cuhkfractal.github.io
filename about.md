@@ -23,7 +23,7 @@ To share opinions and discuss about the above topics, we initialize this series 
 
 ### Postdoctoral researchers:
 - Jian-Ci Xiao 萧建慈
-- Caiyun Ma 麻彩云
+- Cai-Yun Ma 麻彩云
 - \href{Edouard Daviaud}{https://edouardaviaud-math.com}
 
 ### Visiting scholars:
