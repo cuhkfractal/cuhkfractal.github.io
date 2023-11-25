@@ -12,6 +12,16 @@ This is an experimental page for the records of *graduate seminars* organized by
 - A series of seminars based on predetermined topics on Fridays at 14:30 HKT in LSB 219.
 # Previous
 ## 2023
+- 11/10 Friday \venue{LSB 219}\\
+  **Jian-Ci Xiao 萧建慈**
+  - Baker, Simon. \href{Iterated function systems with super-exponentially close cylinders}{https://doi.org/10.1016/j.aim.2020.107548}. *Adv. Math. , Vol. 379 p. 107548, 13. 2021.* 
+  - \collapsible{Summary}{\inputsmmry{2023/s231110.md}}
+
+- 10/13&ndash;11/03 Fridays \venue{LSB 219}\\
+  **Tianhan Yi 易天涵**
+  - Hochman, Michael. \href{On self-similar sets with overlaps and inverse theorems for entropy}{https://doi.org/10.4007/annals.2014.180.2.7}. *Ann. of Math. (2) , Vol. 180, No. 2 p. 773-822. 2014.* 
+  - \href{Note 1}{https://drive.google.com/open?id=1Jm9NA_nLxia9wNt6x-PIpGppC31pfaDB}, \href{Note 2}{https://drive.google.com/open?id=1N1-P2bOidaJdOgabjJ1dNKKEwbwxG2Cf}, \href{Note 3}{https://drive.google.com/open?id=1eaxy6knV8Vu1zKZ-V2ihm-d1fqxGqUlB}, \href{Note 4}{https://drive.google.com/open?id=1ntZ3_ostc7JVg-GbvRdPmCttLK7Jxdnb}.
+
 - 10/06 Friday \venue{LSB 219}\\
   **Lü Fan 吕凡**
   - Lü, Fan & Wu, Jun. \href{Diophantine analysis in beta-dynamical systems and Hausdorff dimensions}{https://doi.org/10.1016/j.aim.2015.12.016}. *Adv. Math. , Vol. 290 p. 919-937. 2016.*

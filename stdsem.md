@@ -11,8 +11,19 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Previous
 ## 2023
+- 10/17&ndash;11/21 Tuesdays \venue{LSB 202}\\
+  **Zhou Feng 冯洲**
+  - Hochman, Michael & Shmerkin, Pablo. \href{Local entropy averages and projections of fractal measures}{https://doi.org/10.4007/annals.2012.175.3.1}. *Ann. of Math. (2) , Vol. 175, No. 3 p. 1001-1059. 2012.*
+  - \collapsible{Summary}{\inputsmmry{2023/s231121.md}}
+  - \href{An entropy-like upper bound}{https://drive.google.com/open?id=1lemUekj3ycng-RJvYstQFl7RN9R8pz6f}. Notes for \href{Section 6}{https://drive.google.com/open?id=1lMLZsa6dw1VnWbu2bOxqKP4ZbFIfzt7a} and \href{Section 7 & 8}{https://drive.google.com/open?id=1pp23gMxued2kOfjzFI_PBZ4iUlYzHkOU}.
+
+- 10/03&ndash;10/31 Tuesdays \venue{LSB 219}\\
+  **Cai-Yun Ma 麻彩云**
+  - Hochman, Michael & Shmerkin, Pablo. \href{Local entropy averages and projections of fractal measures}{https://doi.org/10.4007/annals.2012.175.3.1}. *Ann. of Math. (2) , Vol. 175, No. 3 p. 1001-1059. 2012.*
+  - Notes for \href{Section 4}{https://drive.google.com/file/d/176dl7Jk_XVhCZSAdgJt-Wlx63rDAa0Vm} and \href{Section 5}{https://drive.google.com/open?id=1qHPmpgPJsLKvrTL4W1vQeG1zdSaHm50R}.
+
 - 09/19 Tuesday \venue{LSB 219}\\
-  **Edouard Daviaud, Zhou Feng, and Cai-Yun Ma**
+  **Edouard Daviaud, Zhou Feng and Cai-Yun Ma**
   - Hochman, Michael & Shmerkin, Pablo. \href{Local entropy averages and projections of fractal measures}{https://doi.org/10.4007/annals.2012.175.3.1}. *Ann. of Math. (2) , Vol. 175, No. 3 p. 1001-1059. 2012.*
   - \href{The outline of our workshop}{/assets/summaries/2023/s230919.jpg}
 
