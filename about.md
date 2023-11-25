@@ -36,6 +36,7 @@ To share opinions and discuss about the above topics, we initialize this series 
 ## Recent members
 - Xiong Jin 金雄 (Visitor, 2023)
 - Jun Jason Luo 罗军 (Visitor, 2023)
+- Ying Xiong 熊瑛 (Visitor, 2023)
 - Yuji Li 李宇基 (MPhil, 2023)
 - Aleksi Pyörälä (Visitor, 2023)
 - \href{Yu-Feng Wu}{https://scholar.google.com/citations?user=mbFO8r8AAAAJ&hl=en} 吴玉峰 (PhD, 2021)
