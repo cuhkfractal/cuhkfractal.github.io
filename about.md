@@ -16,6 +16,8 @@ Our interests include:
 To share opinions and discuss about the above topics, we initialize this series of seminars.
 
 ## Current members
+<!-- ![Current Members](/assets/CurrentMembers.jpg) -->
+\figenv{}{/assets/CurrentMembers.jpg}{width: 100%; max-width: 1000px; margin: 0 auto; text-align: center;}
 ### PhD students:
 - Yuhao Xie 谢宇昊
 - Tianhan Yi 易天涵
