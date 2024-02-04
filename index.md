@@ -16,7 +16,7 @@ This is an experimental page for the records of *graduate seminars* organized by
 ## 2024
 - 01/29 Monday \venue{LSB 239}\\
   **Jiagang Yang**
-  - Affiliation: Universidade Federal Fluminense,  Brazil 
+  - Affiliation: Universidade Federal Fluminense, Brazil 
   - Titile: *Maximal transverse measures of expanding foliations*
   - \collapsible{Abstract}{\inputoutln{2024/o240129.md}}
 
