@@ -6,7 +6,7 @@ tags = ["schedule", "student"]
 A series of analysis seminars, with an emphasis on the interests of the [group](/about/), normally takes place on Tuesday afternoons at 14:30 HKT in LSB 219. All are welcome.
 
 # Upcoming
-## 2023
+## 2024
 - A reading workshop on Tuesdays at 14:30 HKT in LSB 202.
 
 # Previous

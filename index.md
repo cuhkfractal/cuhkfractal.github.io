@@ -9,10 +9,28 @@ tags = ["graduate"]
 This is an experimental page for the records of *graduate seminars* organized by \href{De-Jun Feng}{https://www.math.cuhk.edu.hk/~djfeng/}. This series of seminars preferring the research interests of the [group](/about/) will normally be held in Friday afternoons at LSB 219. All the files and resources are and shall be purely for academic use. All are welcome.
 
 # Upcoming
-## 2023
-- A series of seminars based on predetermined topics on Fridays at 14:30 HKT in LSB 219.
+## 2024
+- A series of seminars based on predetermined topics on Fridays at 3pm HKT in LSB 219.
+
 # Previous
+## 2024
+- 01/29 Monday \venue{LSB 239}\\
+  **Jiagang Yang**
+  - Affiliation: Universidade Federal Fluminense,  Brazil 
+  - Titile: *Maximal transverse measures of expanding foliations*
+  - \collapsible{Abstract}{\inputoutln{2024/o240129.md}}
+
+- 01/19 Friday \venue{LSB 239}\\
+  **De-Jun Feng 丰德军**
+  - *Some new results about the weak separation condition*.
+
 ## 2023
+- 12/08 Friday \venue{LSB 222} \\
+  **Ching Wei Ho**
+  - Affiliation: Academia Sinica, Taiwan
+  - Titile: *Heat flow on random polynomials*
+  - \collapsible{Abstract}{\inputoutln{2023/o231208.md}}
+
 - 11/10 Friday \venue{LSB 219}\\
   **Jian-Ci Xiao 萧建慈**
   - Baker, Simon. \href{Iterated function systems with super-exponentially close cylinders}{https://doi.org/10.1016/j.aim.2020.107548}. *Adv. Math. , Vol. 379 p. 107548, 13. 2021.* 
