@@ -13,7 +13,25 @@ This is an experimental page for the records of *graduate seminars* organized by
 - A series of seminars based on predetermined topics on Fridays at 3pm HKT in LSB 219.
 
 # Previous
-## 2024
+## 2024*
+- 03/01&mdash;03/08 Fridays \venue{LSB 219}\\
+  **Zhou Feng 冯洲**
+  - Bárány, Balázs; Käenmäki, Antti; Pyörälä, Aleksi & Wu, Meng. \href{Scaling limits of self-conformal measures}{}. *Arxiv preprint, Arxiv: \href{2308.11399}{https://arxiv.org/abs/2308.11399}. 2023.*
+  - \collapsible{Summary}{\inputsmmry{2024/s240301.md}}
+  - \href{Note}{https://drive.google.com/open?id=1jp8k5xAJwSUdtSA8gwaA64Ujde7nK0sP}.
+
+- 02/23 Friday \venue{LSB 219}\\
+  **Lingmin Liao 廖灵敏**
+  - Affiliation: Wuhan University
+  - Title: *Hausdorff dimension of weighted singular vectors in the plane*
+  - \href{Poster}{https://drive.google.com/open?id=1tAbXiS21tY6hoI7seUDMIAD-aoWtFEXy}.
+
+- 02/02 Friday \venue{LSB 219}\\
+  **Cai-Yun Ma 麻彩云**
+  - Algom, Amir. \href{Slicing theorems and rigidity phenomena for self-affine carpets}{https://doi.org/10.1112/plms.12325}. *Proc. Lond. Math. Soc. (3) , Vol. 121, No. 2 p. 312-353. 2020.*
+  - \collapsible{Outline}{\inputoutln{2024/o240202.md}}
+  - \href{Note}{https://drive.google.com/open?id=1ZZiFncqV8Inl5NGmedMjDett1lHlrR3c}.
+
 - 01/29 Monday \venue{LSB 239}\\
   **Jiagang Yang**
   - Affiliation: Universidade Federal Fluminense, Brazil 
