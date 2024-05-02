@@ -14,6 +14,17 @@ This is an experimental page for the records of *graduate seminars* organized by
 
 # Previous
 ## 2024*
+- 03/29 Friday \venue{LSB 219}\\
+  **Yuhao Xie 谢宇昊**
+  - Feng, De-Jun & Shmerkin, Pablo. \href{Non-conformal repellers and the continuity of pressure for matrix cocycles}{https://doi.org/10.1007/s00039-014-0274-7}. *Geom. Funct. Anal. , Vol. 24, No. 4 p. 1101-1128. 2014.*
+  - \collapsible{Summary}{\inputsmmry{2024/s240329.md}}
+  - \href{Note}{https://drive.google.com/file/d/1I-S_qGptm3pLgLXQpe925ZT8kCNcmdi7}.
+
+- 03/15 Friday \venue{LSB 219}\\
+  **Tianhan Yi 易天涵**
+  - Shmerkin, Pablo. \href{On the exceptional set for absolute continuity of Bernoulli convolutions}{https://doi.org/10.1007/s00039-014-0285-4}. *Geom. Funct. Anal. , Vol. 24, No. 3 p. 946-958. 2014.*
+  - \href{Note}{https://drive.google.com/file/d/1QyIJ2SG9MCajx9uNlWP4ydSdwASCc5ln}.
+
 - 03/01&mdash;03/08 Fridays \venue{LSB 219}\\
   **Zhou Feng 冯洲**
   - Bárány, Balázs; Käenmäki, Antti; Pyörälä, Aleksi & Wu, Meng. \href{Scaling limits of self-conformal measures}{}. *Arxiv preprint, Arxiv: \href{2308.11399}{https://arxiv.org/abs/2308.11399}. 2023.*
